@@ -77,7 +77,7 @@ nav .menu a{
 
 }
 #banner{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 47px 38px 0 230px;
     display: flex;
     justify-content: space-between;
